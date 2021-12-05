@@ -4,3 +4,6 @@
 #Teste
 
 library(tidyverse)
+rename()
+mutate()
+filter()
